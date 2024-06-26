@@ -1,0 +1,11 @@
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Common\bin\Debug\net8.0\Project.Base.Common.deps.json
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Common\bin\Debug\net8.0\Project.Base.Common.dll
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Common\bin\Debug\net8.0\Project.Base.Common.pdb
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Common\obj\Debug\net8.0\Project.Base.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Common\obj\Debug\net8.0\Project.Base.Common.AssemblyInfoInputs.cache
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Common\obj\Debug\net8.0\Project.Base.Common.AssemblyInfo.cs
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Common\obj\Debug\net8.0\Project.Base.Common.csproj.CoreCompileInputs.cache
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Common\obj\Debug\net8.0\Project.Base.Common.dll
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Common\obj\Debug\net8.0\refint\Project.Base.Common.dll
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Common\obj\Debug\net8.0\Project.Base.Common.pdb
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Common\obj\Debug\net8.0\ref\Project.Base.Common.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Project.Base.IService/1.0.0": {
+        "runtime": {
+          "Project.Base.IService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project.Base.IService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

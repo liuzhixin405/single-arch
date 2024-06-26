@@ -1,0 +1,11 @@
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Reflect\bin\Debug\net8.0\Project.Base.Reflect.deps.json
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Reflect\bin\Debug\net8.0\Project.Base.Reflect.dll
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Reflect\bin\Debug\net8.0\Project.Base.Reflect.pdb
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Reflect\obj\Debug\net8.0\Project.Base.Reflect.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Reflect\obj\Debug\net8.0\Project.Base.Reflect.AssemblyInfoInputs.cache
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Reflect\obj\Debug\net8.0\Project.Base.Reflect.AssemblyInfo.cs
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Reflect\obj\Debug\net8.0\Project.Base.Reflect.csproj.CoreCompileInputs.cache
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Reflect\obj\Debug\net8.0\Project.Base.Reflect.dll
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Reflect\obj\Debug\net8.0\refint\Project.Base.Reflect.dll
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Reflect\obj\Debug\net8.0\Project.Base.Reflect.pdb
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.Reflect\obj\Debug\net8.0\ref\Project.Base.Reflect.dll

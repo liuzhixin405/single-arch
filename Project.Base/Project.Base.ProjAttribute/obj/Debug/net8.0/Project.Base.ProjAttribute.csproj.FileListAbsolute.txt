@@ -1,0 +1,11 @@
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.ProjAttribute\bin\Debug\net8.0\Project.Base.ProjAttribute.deps.json
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.ProjAttribute\bin\Debug\net8.0\Project.Base.ProjAttribute.dll
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.ProjAttribute\bin\Debug\net8.0\Project.Base.ProjAttribute.pdb
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.ProjAttribute\obj\Debug\net8.0\Project.Base.ProjAttribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.ProjAttribute\obj\Debug\net8.0\Project.Base.ProjAttribute.AssemblyInfoInputs.cache
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.ProjAttribute\obj\Debug\net8.0\Project.Base.ProjAttribute.AssemblyInfo.cs
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.ProjAttribute\obj\Debug\net8.0\Project.Base.ProjAttribute.csproj.CoreCompileInputs.cache
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.ProjAttribute\obj\Debug\net8.0\Project.Base.ProjAttribute.dll
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.ProjAttribute\obj\Debug\net8.0\refint\Project.Base.ProjAttribute.dll
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.ProjAttribute\obj\Debug\net8.0\Project.Base.ProjAttribute.pdb
+D:\github\single-architecture\single-arch\Project.Base\Project.Base.ProjAttribute\obj\Debug\net8.0\ref\Project.Base.ProjAttribute.dll
