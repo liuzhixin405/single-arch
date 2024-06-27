@@ -8,17 +8,21 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\victor\\.nuget\\packages\\": {}
+    "C:\\Users\\victor\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\github\\single-architecture\\single-arch\\Project.Base\\Project.Base.Common\\Project.Base.Common.csproj",
+      "projectUniqueName": "D:\\github\\single-arch\\Project.Base\\Project.Base.Common\\Project.Base.Common.csproj",
       "projectName": "Project.Base.Common",
-      "projectPath": "D:\\github\\single-architecture\\single-arch\\Project.Base\\Project.Base.Common\\Project.Base.Common.csproj",
+      "projectPath": "D:\\github\\single-arch\\Project.Base\\Project.Base.Common\\Project.Base.Common.csproj",
       "packagesPath": "C:\\Users\\victor\\.nuget\\packages\\",
-      "outputPath": "D:\\github\\single-architecture\\single-arch\\Project.Base\\Project.Base.Common\\obj\\",
+      "outputPath": "D:\\github\\single-arch\\Project.Base\\Project.Base.Common\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

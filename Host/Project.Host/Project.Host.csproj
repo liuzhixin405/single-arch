@@ -14,8 +14,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="CommLibrary\" />
-    <Folder Include="Controllers\" />
+    <Folder Include="bus_lib\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Project.Base\Project.Base.Reflect\Project.Base.Reflect.csproj" />
   </ItemGroup>
 
 </Project>

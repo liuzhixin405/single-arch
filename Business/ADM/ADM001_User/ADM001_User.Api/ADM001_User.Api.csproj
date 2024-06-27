@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <AppendTargetFrameworkToOutputPath>output</AppendTargetFrameworkToOutputPath>
+	  <OutputPath>..\..\..\..\Host\Project.Host\bus_lib</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Project.Base\Project.Base.Model\Project.Base.Model.csproj" />
+    <ProjectReference Include="..\..\..\..\Project.Base\Project.Base.ProjController\Project.Base.ProjController.csproj" />
+    <ProjectReference Include="..\ADM001_User.Business\ADM001_User.Business.csproj" />
+    <ProjectReference Include="..\ADM001_User.Model\ADM001_User.Model.csproj" />
+  </ItemGroup>
+
+</Project>

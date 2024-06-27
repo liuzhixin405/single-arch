@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\github\\single-architecture\\single-arch\\Project.Base\\Project.Base.ProjExtension\\Project.Base.ProjExtension.csproj": {}
+    "D:\\github\\single-arch\\Project.Base\\Project.Base.ProjExtension\\Project.Base.ProjExtension.csproj": {}
   },
   "projects": {
-    "D:\\github\\single-architecture\\single-arch\\Project.Base\\Project.Base.ProjExtension\\Project.Base.ProjExtension.csproj": {
+    "D:\\github\\single-arch\\Project.Base\\Project.Base.ProjExtension\\Project.Base.ProjExtension.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\github\\single-architecture\\single-arch\\Project.Base\\Project.Base.ProjExtension\\Project.Base.ProjExtension.csproj",
+        "projectUniqueName": "D:\\github\\single-arch\\Project.Base\\Project.Base.ProjExtension\\Project.Base.ProjExtension.csproj",
         "projectName": "Project.Base.ProjExtension",
-        "projectPath": "D:\\github\\single-architecture\\single-arch\\Project.Base\\Project.Base.ProjExtension\\Project.Base.ProjExtension.csproj",
+        "projectPath": "D:\\github\\single-arch\\Project.Base\\Project.Base.ProjExtension\\Project.Base.ProjExtension.csproj",
         "packagesPath": "C:\\Users\\victor\\.nuget\\packages\\",
-        "outputPath": "D:\\github\\single-architecture\\single-arch\\Project.Base\\Project.Base.ProjExtension\\obj\\",
+        "outputPath": "D:\\github\\single-arch\\Project.Base\\Project.Base.ProjExtension\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

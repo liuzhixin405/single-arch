@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "y023j8w++vQ=",
+  "success": true,
+  "projectFilePath": "D:\\github\\single-arch\\Business\\ADM\\ADM001_User\\ADM001_User.Business\\ADM001_User.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victor\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
+    "C:\\Users\\victor\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\victor\\.nuget\\packages\\castle.core.asyncinterceptor\\2.1.0\\castle.core.asyncinterceptor.2.1.0.nupkg.sha512",
+    "C:\\Users\\victor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.2.0\\microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\victor\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\victor\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

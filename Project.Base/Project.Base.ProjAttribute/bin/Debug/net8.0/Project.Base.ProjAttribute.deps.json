@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "Project.Base.ProjAttribute/1.0.0": {
+        "dependencies": {
+          "Project.Base.Model": "1.0.0"
+        },
         "runtime": {
           "Project.Base.ProjAttribute.dll": {}
+        }
+      },
+      "Project.Base.Model/1.0.0": {
+        "runtime": {
+          "Project.Base.Model.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Project.Base.ProjAttribute/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Project.Base.Model/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

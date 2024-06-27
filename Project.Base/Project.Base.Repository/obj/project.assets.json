@@ -8,17 +8,21 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\victor\\.nuget\\packages\\": {}
+    "C:\\Users\\victor\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\github\\single-architecture\\single-arch\\Project.Base\\Project.Base.Repository\\Project.Base.Repository.csproj",
+      "projectUniqueName": "D:\\github\\single-arch\\Project.Base\\Project.Base.Repository\\Project.Base.Repository.csproj",
       "projectName": "Project.Base.Repository",
-      "projectPath": "D:\\github\\single-architecture\\single-arch\\Project.Base\\Project.Base.Repository\\Project.Base.Repository.csproj",
+      "projectPath": "D:\\github\\single-arch\\Project.Base\\Project.Base.Repository\\Project.Base.Repository.csproj",
       "packagesPath": "C:\\Users\\victor\\.nuget\\packages\\",
-      "outputPath": "D:\\github\\single-architecture\\single-arch\\Project.Base\\Project.Base.Repository\\obj\\",
+      "outputPath": "D:\\github\\single-arch\\Project.Base\\Project.Base.Repository\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

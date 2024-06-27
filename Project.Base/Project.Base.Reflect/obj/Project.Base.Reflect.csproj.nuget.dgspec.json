@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\github\\single-architecture\\single-arch\\Project.Base\\Project.Base.Reflect\\Project.Base.Reflect.csproj": {}
+    "D:\\github\\single-arch\\Project.Base\\Project.Base.Reflect\\Project.Base.Reflect.csproj": {}
   },
   "projects": {
-    "D:\\github\\single-architecture\\single-arch\\Project.Base\\Project.Base.Reflect\\Project.Base.Reflect.csproj": {
+    "D:\\github\\single-arch\\Project.Base\\Project.Base.Model\\Project.Base.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\github\\single-architecture\\single-arch\\Project.Base\\Project.Base.Reflect\\Project.Base.Reflect.csproj",
-        "projectName": "Project.Base.Reflect",
-        "projectPath": "D:\\github\\single-architecture\\single-arch\\Project.Base\\Project.Base.Reflect\\Project.Base.Reflect.csproj",
+        "projectUniqueName": "D:\\github\\single-arch\\Project.Base\\Project.Base.Model\\Project.Base.Model.csproj",
+        "projectName": "Project.Base.Model",
+        "projectPath": "D:\\github\\single-arch\\Project.Base\\Project.Base.Model\\Project.Base.Model.csproj",
         "packagesPath": "C:\\Users\\victor\\.nuget\\packages\\",
-        "outputPath": "D:\\github\\single-architecture\\single-arch\\Project.Base\\Project.Base.Reflect\\obj\\",
+        "outputPath": "D:\\github\\single-arch\\Project.Base\\Project.Base.Model\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -45,6 +48,163 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\github\\single-arch\\Project.Base\\Project.Base.ProjAttribute\\Project.Base.ProjAttribute.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\github\\single-arch\\Project.Base\\Project.Base.ProjAttribute\\Project.Base.ProjAttribute.csproj",
+        "projectName": "Project.Base.ProjAttribute",
+        "projectPath": "D:\\github\\single-arch\\Project.Base\\Project.Base.ProjAttribute\\Project.Base.ProjAttribute.csproj",
+        "packagesPath": "C:\\Users\\victor\\.nuget\\packages\\",
+        "outputPath": "D:\\github\\single-arch\\Project.Base\\Project.Base.ProjAttribute\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\github\\single-arch\\Project.Base\\Project.Base.Model\\Project.Base.Model.csproj": {
+                "projectPath": "D:\\github\\single-arch\\Project.Base\\Project.Base.Model\\Project.Base.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\github\\single-arch\\Project.Base\\Project.Base.Reflect\\Project.Base.Reflect.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\github\\single-arch\\Project.Base\\Project.Base.Reflect\\Project.Base.Reflect.csproj",
+        "projectName": "Project.Base.Reflect",
+        "projectPath": "D:\\github\\single-arch\\Project.Base\\Project.Base.Reflect\\Project.Base.Reflect.csproj",
+        "packagesPath": "C:\\Users\\victor\\.nuget\\packages\\",
+        "outputPath": "D:\\github\\single-arch\\Project.Base\\Project.Base.Reflect\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\github\\single-arch\\Project.Base\\Project.Base.Model\\Project.Base.Model.csproj": {
+                "projectPath": "D:\\github\\single-arch\\Project.Base\\Project.Base.Model\\Project.Base.Model.csproj"
+              },
+              "D:\\github\\single-arch\\Project.Base\\Project.Base.ProjAttribute\\Project.Base.ProjAttribute.csproj": {
+                "projectPath": "D:\\github\\single-arch\\Project.Base\\Project.Base.ProjAttribute\\Project.Base.ProjAttribute.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Castle.Core": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "Castle.Core.AsyncInterceptor": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
