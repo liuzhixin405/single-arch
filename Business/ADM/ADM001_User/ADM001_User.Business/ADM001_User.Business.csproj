@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Project.Base\Project.Base.IService\Project.Base.IService.csproj" />
     <ProjectReference Include="..\..\..\..\Project.Base\Project.Base.Reflect\Project.Base.Reflect.csproj" />
     <ProjectReference Include="..\ADM001_User.Model\ADM001_User.Model.csproj" />
   </ItemGroup>

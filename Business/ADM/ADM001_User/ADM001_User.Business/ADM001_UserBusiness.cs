@@ -1,4 +1,5 @@
 ﻿using ADM001_User.Model;
+using Project.Base.IService;
 using Project.Base.Model;
 using Project.Base.Reflect;
 
@@ -6,6 +7,11 @@ namespace ADM001_User.Business
 {
     public class ADM001_UserBusiness : IBusiness<User>
     {
+        //private readonly IBusinessBase<User> _businessBase;
+        //public ADM001_UserBusiness(IBusinessBase<User> businessBase)
+        //{
+        //    _businessBase = businessBase;
+        //}
         [AddAop]
         public Task<ApiResult> Add(User entity)
         {

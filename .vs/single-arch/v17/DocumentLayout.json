@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\github\\single-arch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95E64371-F627-498B-95A0-01804E139802}|Project.Base\\Project.Base.IService\\Project.Base.IService.csproj|e:\\github\\single-arch\\project.base\\project.base.iservice\\ibaseoperateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E64371-F627-498B-95A0-01804E139802}|Project.Base\\Project.Base.IService\\Project.Base.IService.csproj|solutionrelative:project.base\\project.base.iservice\\ibaseoperateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E64371-F627-498B-95A0-01804E139802}|Project.Base\\Project.Base.IService\\Project.Base.IService.csproj|e:\\github\\single-arch\\project.base\\project.base.iservice\\icommoperate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E64371-F627-498B-95A0-01804E139802}|Project.Base\\Project.Base.IService\\Project.Base.IService.csproj|solutionrelative:project.base\\project.base.iservice\\icommoperate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E64371-F627-498B-95A0-01804E139802}|Project.Base\\Project.Base.IService\\Project.Base.IService.csproj|e:\\github\\single-arch\\project.base\\project.base.iservice\\ibusinessbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E64371-F627-498B-95A0-01804E139802}|Project.Base\\Project.Base.IService\\Project.Base.IService.csproj|solutionrelative:project.base\\project.base.iservice\\ibusinessbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3BBD37-1600-4432-BC6F-A9F367A14150}|Business\\ADM\\ADM001_User\\ADM001_User.Business\\ADM001_User.Business.csproj|e:\\github\\single-arch\\business\\adm\\adm001_user\\adm001_user.business\\adm001_userbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3BBD37-1600-4432-BC6F-A9F367A14150}|Business\\ADM\\ADM001_User\\ADM001_User.Business\\ADM001_User.Business.csproj|solutionrelative:business\\adm\\adm001_user\\adm001_user.business\\adm001_userbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E64371-F627-498B-95A0-01804E139802}|Project.Base\\Project.Base.IService\\Project.Base.IService.csproj|e:\\github\\single-arch\\project.base\\project.base.iservice\\ibusinessaop\\ibusaop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E64371-F627-498B-95A0-01804E139802}|Project.Base\\Project.Base.IService\\Project.Base.IService.csproj|solutionrelative:project.base\\project.base.iservice\\ibusinessaop\\ibusaop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3BBD37-1600-4432-BC6F-A9F367A14150}|Business\\ADM\\ADM001_User\\ADM001_User.Business\\ADM001_User.Business.csproj|e:\\github\\single-arch\\business\\adm\\adm001_user\\adm001_user.business\\addaop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3BBD37-1600-4432-BC6F-A9F367A14150}|Business\\ADM\\ADM001_User\\ADM001_User.Business\\ADM001_User.Business.csproj|solutionrelative:business\\adm\\adm001_user\\adm001_user.business\\addaop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27028A83-14E9-4F7C-9755-05DC52DE2535}|Business\\ADM\\ADM001_User\\ADM001_User.Api\\ADM001_User.Api.csproj|e:\\github\\single-arch\\business\\adm\\adm001_user\\adm001_user.api\\adm001_usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27028A83-14E9-4F7C-9755-05DC52DE2535}|Business\\ADM\\ADM001_User\\ADM001_User.Api\\ADM001_User.Api.csproj|solutionrelative:business\\adm\\adm001_user\\adm001_user.api\\adm001_usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBusAop.cs",
+              "DocumentMoniker": "E:\\github\\single-arch\\Project.Base\\Project.Base.IService\\IBusinessAop\\IBusAop.cs",
+              "RelativeDocumentMoniker": "Project.Base\\Project.Base.IService\\IBusinessAop\\IBusAop.cs",
+              "ToolTip": "E:\\github\\single-arch\\Project.Base\\Project.Base.IService\\IBusinessAop\\IBusAop.cs",
+              "RelativeToolTip": "Project.Base\\Project.Base.IService\\IBusinessAop\\IBusAop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T01:26:39.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICommOperate.cs",
+              "DocumentMoniker": "E:\\github\\single-arch\\Project.Base\\Project.Base.IService\\ICommOperate.cs",
+              "RelativeDocumentMoniker": "Project.Base\\Project.Base.IService\\ICommOperate.cs",
+              "ToolTip": "E:\\github\\single-arch\\Project.Base\\Project.Base.IService\\ICommOperate.cs",
+              "RelativeToolTip": "Project.Base\\Project.Base.IService\\ICommOperate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T01:26:24.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBaseOperateServices.cs",
+              "DocumentMoniker": "E:\\github\\single-arch\\Project.Base\\Project.Base.IService\\IBaseOperateServices.cs",
+              "RelativeDocumentMoniker": "Project.Base\\Project.Base.IService\\IBaseOperateServices.cs",
+              "ToolTip": "E:\\github\\single-arch\\Project.Base\\Project.Base.IService\\IBaseOperateServices.cs",
+              "RelativeToolTip": "Project.Base\\Project.Base.IService\\IBaseOperateServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T01:21:13.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBusinessBase.cs",
+              "DocumentMoniker": "E:\\github\\single-arch\\Project.Base\\Project.Base.IService\\IBusinessBase.cs",
+              "RelativeDocumentMoniker": "Project.Base\\Project.Base.IService\\IBusinessBase.cs",
+              "ToolTip": "E:\\github\\single-arch\\Project.Base\\Project.Base.IService\\IBusinessBase.cs",
+              "RelativeToolTip": "Project.Base\\Project.Base.IService\\IBusinessBase.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T01:21:05.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddAop.cs",
+              "DocumentMoniker": "E:\\github\\single-arch\\Business\\ADM\\ADM001_User\\ADM001_User.Business\\AddAop.cs",
+              "RelativeDocumentMoniker": "Business\\ADM\\ADM001_User\\ADM001_User.Business\\AddAop.cs",
+              "ToolTip": "E:\\github\\single-arch\\Business\\ADM\\ADM001_User\\ADM001_User.Business\\AddAop.cs",
+              "RelativeToolTip": "Business\\ADM\\ADM001_User\\ADM001_User.Business\\AddAop.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T01:18:03.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ADM001_UserBusiness.cs",
+              "DocumentMoniker": "E:\\github\\single-arch\\Business\\ADM\\ADM001_User\\ADM001_User.Business\\ADM001_UserBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\ADM\\ADM001_User\\ADM001_User.Business\\ADM001_UserBusiness.cs",
+              "ToolTip": "E:\\github\\single-arch\\Business\\ADM\\ADM001_User\\ADM001_User.Business\\ADM001_UserBusiness.cs",
+              "RelativeToolTip": "Business\\ADM\\ADM001_User\\ADM001_User.Business\\ADM001_UserBusiness.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T01:18:02.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ADM001_UserController.cs",
+              "DocumentMoniker": "E:\\github\\single-arch\\Business\\ADM\\ADM001_User\\ADM001_User.Api\\ADM001_UserController.cs",
+              "RelativeDocumentMoniker": "Business\\ADM\\ADM001_User\\ADM001_User.Api\\ADM001_UserController.cs",
+              "ToolTip": "E:\\github\\single-arch\\Business\\ADM\\ADM001_User\\ADM001_User.Api\\ADM001_UserController.cs",
+              "RelativeToolTip": "Business\\ADM\\ADM001_User\\ADM001_User.Api\\ADM001_UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T01:11:33.293Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
