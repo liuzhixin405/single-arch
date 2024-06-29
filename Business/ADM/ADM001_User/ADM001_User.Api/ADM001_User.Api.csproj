@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Project.Base\Project.Base.Common\Project.Base.Common.csproj" />
     <ProjectReference Include="..\..\..\..\Project.Base\Project.Base.Model\Project.Base.Model.csproj" />
     <ProjectReference Include="..\..\..\..\Project.Base\Project.Base.ProjController\Project.Base.ProjController.csproj" />
     <ProjectReference Include="..\ADM001_User.Business\ADM001_User.Business.csproj" />

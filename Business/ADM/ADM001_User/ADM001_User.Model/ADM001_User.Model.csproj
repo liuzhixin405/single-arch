@@ -4,6 +4,16 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	  <AppendTargetFrameworkToOutputPath>output</AppendTargetFrameworkToOutputPath>
+	  <OutputPath>..\..\..\..\Host\Project.Host\bus_lib</OutputPath>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Project.Base\Project.Base.Model\Project.Base.Model.csproj" />
+  </ItemGroup>
 
 </Project>

@@ -11,7 +11,7 @@ namespace Project.Base.Model
         /// <summary>
         /// 返回数据集合
         /// </summary>
-        public new T Response { get; set; }
+        public T Response { get; set; }
         public static ApiResult<T> SuccessResult(T data=default(T))
         {
             return new ApiResult<T> { Success = true, Response = data ,Status=200};
@@ -27,19 +27,16 @@ namespace Project.Base.Model
         /// <summary>
         /// 状态码
         /// </summary>
-        public int Status { get; set; } = 400;
+        public int Status { get; set; } = 200;
         /// <summary>
         /// 操作是否成功
         /// </summary>
-        public bool Success { get; set; } = false;
+        public bool Success { get; set; } = true;
         /// <summary>
         /// 返回信息
         /// </summary>
         public string Message { get; set; } = "";
-        /// <summary>
-        /// 返回数据集合
-        /// </summary>
-        public object Response { get; set; }
+      
         /// <summary>
         /// 是否调用下个接口
         /// </summary>

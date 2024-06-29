@@ -4,12 +4,29 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	  <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+	  <OutputPath>..\..\..\..\Host\Project.Host\bus_lib</OutputPath>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="8.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Project.Base\Project.Base.Common\Project.Base.Common.csproj" />
     <ProjectReference Include="..\..\..\..\Project.Base\Project.Base.IService\Project.Base.IService.csproj" />
+    <ProjectReference Include="..\..\..\..\Project.Base\Project.Base.Module\Project.Base.Module.csproj" />
     <ProjectReference Include="..\..\..\..\Project.Base\Project.Base.Reflect\Project.Base.Reflect.csproj" />
+    <ProjectReference Include="..\..\..\..\Project.Base\Project.Base.Repository\Project.Base.Repository.csproj" />
+    <ProjectReference Include="..\..\..\..\Project.Base\Project.Base.Service\Project.Base.Service.csproj" />
     <ProjectReference Include="..\ADM001_User.Model\ADM001_User.Model.csproj" />
   </ItemGroup>
 
+	<Target Name="CopyDependencies" AfterTargets="Build">
+		<ItemGroup>
+			<ResolvedFiles Include="@(ReferencePath)" />
+			<ResolvedFiles Include="$(OutputPath)**\*.*" />
+		</ItemGroup>
+		<Copy SourceFiles="@(ResolvedFiles)" DestinationFolder="..\..\..\..\Host\Project.Host\bus_lib\%(RecursiveDir)" />
+	</Target>
 </Project>

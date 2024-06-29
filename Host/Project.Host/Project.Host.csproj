@@ -14,10 +14,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="bus_lib\" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <ProjectReference Include="..\..\Project.Base\Project.Base.DependencyInjection\Project.Base.DependencyInjection.csproj" />
+    <ProjectReference Include="..\..\Project.Base\Project.Base.ProjExtension\Project.Base.ProjExtension.csproj" />
     <ProjectReference Include="..\..\Project.Base\Project.Base.Reflect\Project.Base.Reflect.csproj" />
   </ItemGroup>
 

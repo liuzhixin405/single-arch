@@ -7,7 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="BaseService\" />
+    <ProjectReference Include="..\Project.Base.IRepository\Project.Base.IRepository.csproj" />
+    <ProjectReference Include="..\Project.Base.IService\Project.Base.IService.csproj" />
   </ItemGroup>
 
 </Project>
