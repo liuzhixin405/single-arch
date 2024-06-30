@@ -80,5 +80,10 @@ namespace Project.Base.Repository
                 PageNumber = pagingParameters.PageNumber
             };
         }
+
+        public Task<ApiResult> DeleteAsync(ID id)
+        {
+            return DeleteAsync(x => x.Id.Equals(id));
+        }
     }
 }

@@ -15,7 +15,7 @@ namespace ADM001_User.Api
         private readonly IBusiness<IRequestDto> _business;
         public ADM001_UserController(ILogger<InitController<User>> logger) : base(logger)
         {
-           _business = ServiceLocator.Instance.CreateAsyncScope().ServiceProvider.GetService<IBusiness<IRequestDto>>();
+           _business = ServiceLocator.Instance.CreateAsyncScope().ServiceProvider.GetService<IBusiness<IRequestDto>>()?? throw new ArgumentException($"未找到{nameof(User)}业务接口");
         }
 
         [HttpPost]

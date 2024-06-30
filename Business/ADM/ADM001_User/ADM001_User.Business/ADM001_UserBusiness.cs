@@ -10,11 +10,6 @@ namespace ADM001_User.Business
 {
     public class ADM001_UserBusiness : IBusiness<IRequestDto>
     {
-        //private readonly IBusinessBase<User> _businessBase;
-        //public ADM001_UserBusiness(IBusinessBase<User> businessBase)
-        //{
-        //    _businessBase = businessBase;
-        //}
         [AddAop]
         public Task<ApiResult> AddAsync(IRequestDto entity)
         {
